@@ -5,6 +5,27 @@ html, body {
 .navbar {
   margin-bottom: 0;
 }
+
+.navbar-inner {
+  margin: 40px;
+  background-color: #eee;
+}
+
+.navbar .brand {
+float: left;
+display: block;
+padding: 11px 20px 12px;
+margin-left: -20px;
+font-size: 30px;
+font-weight: 600;
+line-height: .5;
+letter-spacing: -1px;
+color: gray;
+text-shadow: 0 1px 0 white;
+opacity: 0.8;
+text-transform: lowercase;
+}
+
 .container > footer {
   margin-top: 20px;
 }
