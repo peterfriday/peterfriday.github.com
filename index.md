@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <div class= "friday30">#friday30</div>
+title: "#friday30"
 ---
 {% include JB/setup %}
 
