@@ -8,7 +8,6 @@ html, body {
 
 .navbar-inner {
   margin: 40px;
-  background-color: #eee;
 }
 
 .navbar .brand {
@@ -25,6 +24,7 @@ text-shadow: 0 1px 0 white;
 opacity: 0.8;
 text-transform: lowercase;
 }
+
 
 .container > footer {
   margin-top: 20px;
