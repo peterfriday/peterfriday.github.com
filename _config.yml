@@ -30,7 +30,7 @@ production_url : http://peterfriday.github.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
-JB :
+JB : peterandbess
   version : 0.2.13
 
   # All links will be namespaced by BASE_PATH if defined.
