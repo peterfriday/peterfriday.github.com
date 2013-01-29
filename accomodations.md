@@ -6,7 +6,7 @@ group: navigation
 ---
 
 ### Hotels
-The [Courtyard Marriott](http://www.marriott.com/hotels/travel/sfocd-courtyard-san-francisco-downtown/) is 50ft from the Barrel House doors
+The [Courtyard Marriott](http://www.marriott.com/hotels/travel/sfocd-courtyard-san-francisco-downtown/) is 50ft from the Barrel House doors and a great
 
 ### Airbnb
 This is the way to do it. We've looked up a bunch in locations either near the Barrel House in SOMA or near our loft in Dogpatch that range from 2 people to 10 people.  The more people the cheaper it is, plus you can get a bigger space.  
