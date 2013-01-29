@@ -8,6 +8,8 @@ group: navigation
 
 We'll be taking off Wed-Fri that week so anyone that wants to come into town early can join us while we enjoy our favorite places in the Bay Area. 
 
+![cal](/assets/img/cal.png)
+
 #### Wednesday
 SF food tour
 

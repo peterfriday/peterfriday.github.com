@@ -32,8 +32,20 @@ text-transform: lowercase;
 	letter-spacing: -3px;
 	background: -webkit-linear-gradient(#DF01D7, #380B61);
   	-webkit-background-clip: text;
-  	-webkit-text-fill-color: transparent;
-	
+  	-webkit-text-fill-color: transparent;	
+}
+
+.container {
+	min-height: 100%;
+	min-width: 100%;
+	width: 100%;
+}
+/* responsive design */
+@media screen and (max-width: 478px) {
+	.container { width: 100%;}
+    h1 { font-size: 70px; padding: 1px; }
+    h2 { font-size: 13px; padding: 1px; }
+    body, p { font-size: 13px; width:100%; }
 }
 
 .container > footer {
@@ -47,7 +59,7 @@ text-transform: lowercase;
 .content {
   background-color: #fff;
   padding: 20px;
-  margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
+  margin: 0 5px; /* negative indent the amount of the padding to maintain the grid system */
   -webkit-border-radius: 0 0 6px 6px;
      -moz-border-radius: 0 0 6px 6px;
           border-radius: 0 0 6px 6px;
