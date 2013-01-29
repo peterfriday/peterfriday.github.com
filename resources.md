@@ -8,9 +8,16 @@ group: navigation
 {% include JB/setup %}
 
 
-## Apps
+### Lists
+#### Lunch + Dinner Spots
+[https://foursquare.com/peterfriday/list/sf-lunch--dinner](https://foursquare.com/peterfriday/list/sf-lunch--dinner)
+#### Drinks
+[https://foursquare.com/peterfriday/list/sf-drinks](https://foursquare.com/peterfriday/list/sf-drinks)
+#### Brunch
+[https://foursquare.com/peterfriday/list/sf-brunch](https://foursquare.com/peterfriday/list/sf-brunch)
+
 ### Taxi's
-San Francisco has terrible taxi's.  Luckily we also have some of the smartest minds in the world and a group of them have decided to put their technical chops to use creating awesome alternatives to taxi's. Before you get here signup and download the following apps: 
+San Francisco has terrible taxi's.  We also have some of the smartest minds in the world this 'problem', which basically means there are awesome alternatives to the taxi. Before you get here signup and download the following apps to enjoy these services. **Do not rent a car**
 ###Uber
 Uber started as the black car service where you request a driver on your phone and they show up where your GPS says you are in 5 min.  All of the transaction details are handled behind the scenes on the phone and you feel straight up like a badass.  It's 15-20% more than taxi's, but a great service. They also have Uber Taxi's which are Taxi's outfitted with the Uber app so you don't have to deal with the transaction etc..  They are better than hailing a normal cab. 
 
