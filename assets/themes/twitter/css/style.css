@@ -44,6 +44,7 @@ text-transform: lowercase;
 }
 /* responsive design */
 @media screen and (max-width: 478px) {
+	.body {max-width: 478px}
 	.container { width: 100%;}
     h1 { font-size: 70px; padding: 1px; }
     h2 { font-size: 13px; padding: 1px; }
