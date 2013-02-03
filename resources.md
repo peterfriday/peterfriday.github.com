@@ -9,6 +9,7 @@ group: navigation
 
 
 ### Lists
+These lists are a compilation of all of our favorite spots in the City.
 #### Lunch + Dinner Spots
 [https://foursquare.com/peterfriday/list/sf-lunch--dinner](https://foursquare.com/peterfriday/list/sf-lunch--dinner)
 #### Drinks
