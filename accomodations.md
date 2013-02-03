@@ -5,6 +5,9 @@ description: "Places to stay in SF"
 group: navigation
 ---
 
+###Locals
+Some of our local friends have graciously offered spots in their apartments so if you are interested in staying in one of those let me know asap.  I'm sure they'll fill up fast. 
+
 ### Hotels
 The [Courtyard Marriott](http://www.marriott.com/hotels/travel/sfocd-courtyard-san-francisco-downtown/) is 50ft from the Barrel House doors.  
 
@@ -25,8 +28,6 @@ Check them out:
 [SOMA/Southpark: up to 6 people](https://www.airbnb.com/rooms/64332)
 
 [SOMA: up to 9 people](https://www.airbnb.com/rooms/640352)
-
-[SOMA: up to 7 people](https://www.airbnb.com/rooms/489171)
 
 [SOMA: up to 4 people](https://www.airbnb.com/rooms/426514)
 
