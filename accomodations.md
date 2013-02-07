@@ -16,7 +16,6 @@ This is the way to do it. We've looked up a bunch in locations either near the B
 
 Check them out: 
 
-[Dogpatch: up to 8 people](https://www.airbnb.com/rooms/683190)
 
 [Dogpatch: up to 5 people](https://www.airbnb.com/rooms/228433)
 
@@ -26,8 +25,6 @@ Check them out:
 [SOMA/Southpark: up to 8 people](https://www.airbnb.com/rooms/755780)
 
 [SOMA/Southpark: up to 6 people](https://www.airbnb.com/rooms/64332)
-
-[SOMA: up to 9 people](https://www.airbnb.com/rooms/640352)
 
 [SOMA: up to 4 people](https://www.airbnb.com/rooms/426514)
 
