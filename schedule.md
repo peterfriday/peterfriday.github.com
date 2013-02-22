@@ -10,8 +10,11 @@ We'll be taking off Wed-Fri that week so anyone that wants to come into town ear
 
 We've setup a yapp for the event and will be keeping it up to date.  What is yapp?  I just learned about it at a conference last week.  Basically it's an app for your phone with all the details of our party.  We can also send push notifications with messages as things change etc.. so it will be killer to know exactly whats going on.  You can download and set it up here: 
 
-http://my.yapp.us/KSMA4W
+[http://my.yapp.us/KSMA4W](http://my.yapp.us/KSMA4W "yapp")
 
+[![yapp][id_2]][id_1]
+[id_1]: http://my.yapp.us/KSMA4W
+[id_2]: /assets/img/yapp.jpg 
 
 #### Wednesday
 SF food tour
