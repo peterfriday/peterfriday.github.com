@@ -8,16 +8,19 @@ group: navigation
 
 We'll be taking off Wed-Fri that week so anyone that wants to come into town early can join us while we enjoy our favorite places in the Bay Area. 
 
-![cal](/assets/img/cal.png)
+We've setup a yapp for the event and will be keeping it up to date.  What is yapp?  I just learned about it at a conference last week.  Basically it's an app for your phone with all the details of our party.  We can also send push notifications with messages as things change etc.. so it will be killer to know exactly whats going on.  You can download and set it up here: 
+
+http://my.yapp.us/KSMA4W
+
 
 #### Wednesday
 SF food tour
 
 ####Thursday
-Wine Country - Healdsburg, perhaps stay up for the night
+Wine Country?? 
 
 #### Friday
-Hog Island Oysters in Tamales Bay
+Bike Ride across Golden Gate Bridge or Hog Island Oysters in Tamales Bay
 
 #### Friday Night 
 Cocktails at our Loft in Dogpatch
