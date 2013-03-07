@@ -14,7 +14,7 @@ We've setup a yapp for the event and will be keeping it up to date.  What is yap
 
 [![yapp][id_2]][id_1]
 [id_1]: http://my.yapp.us/KSMA4W
-[id_2]: /assets/img/yapp.jpg 
+[id_2]: /assets/img/yapp.png 
 
 #### Wednesday
 SF food tour
